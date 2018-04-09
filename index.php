@@ -64,7 +64,7 @@
             $count_col = 0;
             foreach ($line as $col_name => $columns){
                 if ($count_col%2 ==0) {
-                    print("<th>$columns</th>");
+                    print("<td>$columns</td>");
                 }
                 $count_col++;
             }
