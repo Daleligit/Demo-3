@@ -1,3 +1,6 @@
+<html>
+<link rel="stylesheet" href="styles.css">
+<body>
 <?php
 /**
  * Created by PhpStorm.
@@ -71,3 +74,5 @@
     }
     print_table($result);
 ?>
+</body>
+</html>
